@@ -65,7 +65,7 @@ sections:
         - title: Associate Professor
           company: Politecnico di Milano
           company_url: 'https://www.polimi.it/en'
-          company_logo: org-gc
+          company_logo: polimi-logo
           location: Italy
           date_start: '2014-12-01'
           date_end: ''
@@ -74,7 +74,7 @@ sections:
         - title: Guest Researcher
           company: RWTH Aachen University - Institut für Technische Verbrennung (ITV)
           company_url: 'https://itv.rwth-aachen.de/index.php'
-          company_logo: org-gc
+          company_logo: rwth-logo
           location: Germany
           date_start: '2021-05-01'
           date_end: '2023-08-31'
@@ -83,7 +83,7 @@ sections:
         - title: Invited Professor
           company: CentraleSupélec - Laboratoire EM2C
           company_url: 'https://em2c.centralesupelec.fr/'
-          company_logo: org-gc
+          company_logo: cs-logo
           location: France
           date_start: '2018-06-01'
           date_end: '2018-07-31'
@@ -92,7 +92,7 @@ sections:
         - title: Visiting Professor
           company: Université libre de Bruxelles
           company_url: 'https://www.ulb.be/'
-          company_logo: org-gc
+          company_logo: ulb-logo
           location: Belgium
           date_start: '2014-03-01'
           date_end: '2014-03-31'
@@ -101,7 +101,7 @@ sections:
         - title: Assistant Professor
           company: Politecnico di Milano
           company_url: 'https://www.polimi.it/en'
-          company_logo: org-x
+          company_logo: polimi-logo
           location: Italy
           date_start: '2008-06-01'
           date_end: '2014-11-30'
@@ -122,15 +122,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://en.wikipedia.org/wiki/ENI_award
-          date_end: ''
+        - date_end: ''
           date_start: '2009-05-15'
           description: ''
-          icon: ''
+          icon: eni-logo
           organization: ENI
           organization_url: https://www.eni.com/en-IT/strategic-vision/innovation/eni-award.html
-          title: "Pollutant formation in turbulent reactive flows: interactions between chemistry and turbulence - Ph.D. Thesis in Industrial Chemistry and Chemical Engineering, Politecnico di Milano"
-          url: ''
+          title: ENI Award 2009 - Debut in Research Prize
+          url: https://en.wikipedia.org/wiki/ENI_award
+          certificate_url: ''
     design:
       columns: '2'
   - block: collection
