@@ -48,21 +48,26 @@ education:
 skills:
   - name: Technical
     items:
+      - name: C++
+        description: ''
+        percent: 80
+        icon: c++-logo
+#        icon_pack: fas
       - name: Python
         description: ''
         percent: 60
         icon: python
         icon_pack: fab
-      - name: C++
-        description: ''
-        percent: 80
-        icon: cpp
-        icon_pack: fas
       - name: OpenFOAM
         description: ''
         percent: 80
         icon: cfd
         icon_pack: fas
+      - name: Matlab
+        description: ''
+        percent: 80
+        icon: matlab
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -70,18 +75,18 @@ skills:
       - name: Tennis
         description: ''
         percent: 60
-        icon: person-tennis
-        icon_pack: fas
-      - name: Bike
+        icon: tennis-logo
+#        icon_pack: fas
+      - name: Biking
         description: ''
         percent: 70
-        icon: bike
-        icon_pack: fas
+        icon: biking-logo
+#        icon_pack: fas
       - name: Opera
         description: ''
         percent: 70
-        icon: opera
-        icon_pack: fas
+        icon: opera-logo
+#        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
