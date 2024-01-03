@@ -51,7 +51,7 @@ skills:
       - name: C++
         description: ''
         percent: 80
-        icon: c++-logo
+        icon: brands/c++-logo
 #        icon_pack: fas
       - name: Python
         description: ''
@@ -75,17 +75,17 @@ skills:
       - name: Tennis
         description: ''
         percent: 60
-        icon: tennis-logo
+        icon: brands/tennis-logo
 #        icon_pack: fas
       - name: Biking
         description: ''
         percent: 70
-        icon: biking-logo
+        icon: brands/biking-logo
 #        icon_pack: fas
       - name: Opera
         description: ''
         percent: 70
-        icon: opera-logo
+        icon: brands/opera-logo
 #        icon_pack: fas
 
 # Social/Academic Networking
