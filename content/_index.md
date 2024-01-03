@@ -62,30 +62,54 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Associate Professor
+          company: Politecnico di Milano
+          company_url: 'https://www.polimi.it/en'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Italy
+          date_start: '2014-12-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          description: Teaching Advanced Transport Phenomena and doing research on Computational Fluid Dynamics of reactive flows and modeling of chemical reactors.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Guest Researcher
+          company: RWTH Aachen University - Institut für Technische Verbrennung (ITV)
+          company_url: 'https://itv.rwth-aachen.de/index.php'
+          company_logo: org-gc
+          location: Germany
+          date_start: '2021-05-01'
+          date_end: '2023-08-31'
+          description: Research on modeling formtion and evolution of carbonaceous particles in laminar flows.
+
+        - title: Invited Professor
+          company: CentraleSupélec - Laboratoire EM2C
+          company_url: 'https://em2c.centralesupelec.fr/'
+          company_logo: org-gc
+          location: France
+          date_start: '2018-06-01'
+          date_end: '2018-07-31'
+          description: Research on modeling turbulent reactive flows by means of virtual chemistry technique.
+
+        - title: Visiting Professor
+          company: Université libre de Bruxelles
+          company_url: 'https://www.ulb.be/'
+          company_logo: org-gc
+          location: Belgium
+          date_start: '2014-03-01'
+          date_end: '2014-03-31'
+          description: Research on modeling laminar reactive flows with detailed kinetics by means of the PCA approach.
+
+        - title: Assistant Professor
+          company: Politecnico di Milano
+          company_url: 'https://www.polimi.it/en'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Italy
+          date_start: '2008-06-01'
+          date_end: '2014-11-30'
+          description: Taught Computational Fluid Dynamics of Fires and researched numerical techniques for modeling reactive flows with detailed chemistry.
+
     design:
       columns: '2'
-  - block: accomplishments
+  - block: Awards & Accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -98,32 +122,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://en.wikipedia.org/wiki/ENI_award
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2009-05-15'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: ''
+          organization: ENI
+          organization_url: https://www.eni.com/en-IT/strategic-vision/innovation/eni-award.html
+          title: "Pollutant formation in turbulent reactive flows: interactions between chemistry and turbulence - Ph.D. Thesis in Industrial Chemistry and Chemical Engineering, Politecnico di Milano"
           url: ''
     design:
       columns: '2'
@@ -235,39 +241,39 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        You can contact me by email or by phone.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: alberto.cuoci@polimi.it
+      phone: +390223993283
+#      appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
+        street: P.zza Leonardo da Vinci 32
+        city: Milano
         region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        postcode: '20133'
+        country: Italy
+        country_code: IT
+      directions: Enter Building 6 and take the stairs to Floor 1 (Chemical Engineering Section)
+#      office_hours:
+#        - 'Monday 10:00 to 13:00'
+#        - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+        latitude: '45.478056'
+        longitude: '9.229055'
+#      contact_links:
+#        - icon: twitter
+#          icon_pack: fab
+#          name: CuociAlberto
+#          link: 'https://twitter.com/Twitter'
+#        - icon: skype
+#          icon_pack: fab
+#          name: Skype Me
+#          link: 'skype:echo123?call'
+#        - icon: video
+#          icon_pack: fas
+#          name: Zoom Me
+#          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
