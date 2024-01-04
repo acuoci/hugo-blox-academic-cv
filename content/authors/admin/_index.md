@@ -125,7 +125,7 @@ highlight_name: true
 ---
 
 I am a professor of Chemical Engineering at Politecnico di Milano, working on **numerical modeling of reactive flows with detailed kinetics**, with a specific focus on the formation and emissions of pollutants (NOx, PAHs, and soot). I am the main developer of [OpenSMOKE++](https://www.opensmokepp.polimi.it), a comprehensive framework for numerical simulations of reacting systems with complex chemistry, adopted by numerous academic research groups engaged in the development and application of detailed kinetic mechanisms. 
+{style="text-align: justify;"}
 
 Over the past few years, I gradually shifted the focus of my research on the development and implementation of **numerical techniques for accelerating multidimensional CFD simulations** with chemical reactions using machine learning algorithms. In addition, I am interested in the **multiscale analysis of multiphase flows and catalytic processes** and the numerical modeling of heterogeneous catalytic reactors. In collaboration with Prof. Maestri, I contributed to the development of [catalyticFOAM](http://www.catalyticfoam.polimi.it), a specialized CFD code for simulating catalytic reactors using a microkinetic description of surface reactivity.
-
 {style="text-align: justify;"}

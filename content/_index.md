@@ -95,7 +95,7 @@ sections:
           company_logo: ulb-logo
           location: Belgium
           date_start: '2014-03-01'
-          date_end: '2014-03-31'
+          date_end: '2014-04-01'
           description: Research on modeling laminar reactive flows with detailed kinetics by means of the PCA approach.
 
         - title: Assistant Professor
@@ -106,6 +106,15 @@ sections:
           date_start: '2008-06-01'
           date_end: '2014-11-30'
           description: Taught Computational Fluid Dynamics of Fires and researched numerical techniques for modeling reactive flows with detailed chemistry.
+
+        - title: Visiting Scholar
+          company: University of Utah
+          company_url: 'https://www.utah.edu/'
+          #company_logo: polimi-logo
+          location: USA
+          date_start: '2006-10-01'
+          date_end: '2007-08-15'
+          description: Research on modeling soot formation and evolution in turbulent flames.
 
     design:
       columns: '2'
