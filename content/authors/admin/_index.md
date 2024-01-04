@@ -46,8 +46,7 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#skills:
-skills_removed:
+skills:
 - name: Technical
     items:
       - name: C++
