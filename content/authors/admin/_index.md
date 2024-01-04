@@ -43,10 +43,12 @@ education:
       institution: Politecnico di Milano
       year: 2004
 
+
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
+#skills:
+skills_removed:
+- name: Technical
     items:
       - name: C++
         description: ''
