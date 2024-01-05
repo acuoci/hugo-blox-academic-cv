@@ -1,6 +1,5 @@
 ---
-title: Automated adaptive chemistry for Large Eddy Simulations of turbulent reacting
-  flows
+title: Automated adaptive chemistry for Large Eddy Simulations of turbulent reacting flows
 authors:
 - Ruggero Amaduzzi
 - Giuseppe D'Alessio
