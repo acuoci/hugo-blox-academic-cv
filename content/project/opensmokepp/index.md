@@ -1,6 +1,6 @@
 ---
 title: OpenSMOKE++
-summary: A C++ framework for numerical simulations of reacting systems with detailed kinetic mechanisms.
+summary: A C++ framework for numerical simulations of reacting systems with detailed kinetic mechanisms, including thousands of chemical species and reactions. Fully-compatible with the standard CHEMKIN format.
 tags:
   - Kinetics
   - Numerical modeling
