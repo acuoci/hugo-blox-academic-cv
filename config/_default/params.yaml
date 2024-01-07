@@ -18,12 +18,12 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: "Discover cutting-edge CFD research on reactive flows with Alberto Cuoci's comprehensive insights. Dive into innovative solutions and in-depth analysis."
+    description: 'Discover cutting-edge CFD research on reactive flows with Alberto Cuoci. Dive into innovative solutions and in-depth analysis.'
     twitter: 'CuociAlberto'
   analytics:
-    google_analytics: 'G-9WRKH95MS8'
+    google_analytics: ''
     baidu_tongji: ''
-    google_tag_manager: 'G-9WRKH95MS8'
+    google_tag_manager: ''
     microsoft_clarity: ''
   verification:
     google: ''
