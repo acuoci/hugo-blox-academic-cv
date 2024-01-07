@@ -8,7 +8,7 @@ authors:
 - Xin Hui
 - Tiziano Faravelli
 date: '2023-01-01'
-publishDate: '2024-01-03T15:58:18.308895Z'
+publishDate: '2024-01-05T15:58:18.308895Z'
 publication_types:
 - article-journal
 publication: '*Combustion and Flame*'
