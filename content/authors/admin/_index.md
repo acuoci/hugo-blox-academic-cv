@@ -84,7 +84,7 @@ skills:
         percent: 70
         icon: brands/biking-logo
 #        icon_pack: fas
-      - name: Opera
+      - name: Opera and Classical Music
         description: ''
         percent: 70
         icon: brands/opera-logo
