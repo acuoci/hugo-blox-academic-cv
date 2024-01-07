@@ -21,9 +21,9 @@ marketing:
     description: 'Discover cutting-edge CFD research on reactive flows with Alberto Cuoci. Dive into innovative solutions and in-depth analysis.'
     twitter: 'CuociAlberto'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-9WRKH95MS8'
     baidu_tongji: ''
-    google_tag_manager: ''
+    google_tag_manager: 'G-9WRKH95MS8'
     microsoft_clarity: ''
   verification:
     google: ''
