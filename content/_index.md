@@ -62,12 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Associate Professor
+        - title: Full Professor
           company: Politecnico di Milano
           company_url: 'https://www.polimi.it/en'
           company_logo: polimi-logo
           location: Italy
-          date_start: '2014-12-01'
+          date_start: '2024-10-01'
           date_end: ''
           description: Teaching Advanced Transport Phenomena and doing research on Computational Fluid Dynamics of reactive flows and modeling of chemical reactors.
 
@@ -89,6 +89,15 @@ sections:
           date_end: '2018-07-31'
           description: Research on modeling turbulent reactive flows by means of virtual chemistry technique.
 
+        - title: Associate Professor
+          company: Politecnico di Milano
+          company_url: 'https://www.polimi.it/en'
+          company_logo: polimi-logo
+          location: Italy
+          date_start: '2014-12-01'
+          date_end: '2024-09-30'
+          description: Teaching Advanced Transport Phenomena and doing research on Computational Fluid Dynamics of reactive flows and modeling of chemical reactors.
+    
         - title: Visiting Professor
           company: Université libre de Bruxelles
           company_url: 'https://www.ulb.be/'
