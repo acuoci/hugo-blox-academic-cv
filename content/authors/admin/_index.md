@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Chemical Engineering
+role: Full Professor of Chemical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
